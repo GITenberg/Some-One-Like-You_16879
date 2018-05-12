@@ -1,0 +1,26 @@
+_repo: Some-One-Like-You_16879
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16879-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Foley, James W. (James William)
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '6991'
+    url: http://www.gutenberg.org/2009/agents/6991
+description: ''
+gutenberg_issued: '2005-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love poetry'
+- !lcc 'PS'
+title: Some One Like You
+url: http://www.gutenberg.org/ebooks/16879
