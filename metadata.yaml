@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6991'
     url: http://www.gutenberg.org/2009/agents/6991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16879#Some-One-Like-You
 gutenberg_issued: '2005-10-15'
 gutenberg_type: Text
 identifiers:
